@@ -1,0 +1,17 @@
+[tileset]
+	[[air]]
+	alias=a
+	solid=False
+	color=white
+
+	[[wall]]
+	alias=w
+	solid=True
+	color=black
+
+[map]
+width=4
+height=4
+scale=0
+size=20
+tiles=w w w w w a a w w a a w w w w w
