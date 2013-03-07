@@ -11,7 +11,7 @@
 
 [map]
 width=4
-height=4
+height=5
 scale=0
 size=20
-tiles=w w w w w a a w w a a w w w w w
+tiles=w w w w w a a w w a a w w a a w w w w w
